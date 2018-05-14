@@ -3,12 +3,13 @@ There has been a surge in crimes committed in recent years, making crime a top c
 Data Description
 
 [Data set](https://github.com/dhwanikaneria/Predict-the-Criminals/tree/master/d17428d0-e-Criminal)
-[Data Description]()
+
+[Data Description](https://github.com/dhwanikaneria/Predict-the-Criminals/blob/master/DataDescription.txt)
 
 
 OutPut:
 
-[submission.csv]()
+[submission.csv](https://github.com/dhwanikaneria/Predict-the-Criminals/blob/master/submission.csv)
 
 How to run:
 Language used : Python 
